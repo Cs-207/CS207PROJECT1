@@ -2,7 +2,7 @@
 BLUETOOTH CONTROL CAR
 This project is a bluetooth controlled car which is controlled using app on andriod phone. When we were searching for project as my brother's
 son like car very much. He always like to play wuth a car from that i got a idea to build a car as my project and then i am gonna gift him on 
-his birthday next month.
+his birthday next month.<BR/>
 Here is a image of car which i have build as a project. 
 
 # Material Required
