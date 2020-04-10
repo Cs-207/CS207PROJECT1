@@ -5,7 +5,7 @@ son like car very much. He always like to play wuth a car from that i got a idea
 his birthday next month.
 Here is a image of car which i have build as a project. 
 
-Material Required
+# Material Required
 -Arduino Uno
 -Bluetooth HC-06
 -Jump Wires
@@ -16,6 +16,6 @@ Material Required
 -4 X Micro motors 
 -4 X Grippy Wheels
 
-Build Instructions :
+# Build Instructions :
 Here is how you are gonna build this project attached, is Breadboard diagram as it is easier to understand connection with breadboard diagram.
 Be careful while making connections as these are bit confusing. 
