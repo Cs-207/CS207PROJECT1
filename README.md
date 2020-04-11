@@ -31,7 +31,7 @@ It is bluetooth controlled car which is contrtolled with the help of andriod mob
 
 # Team :
 - Komalpreet Singh
-- Lovepreet Singh
+- Lovepreet Singh<br/>
 Komalpreet Singh worked on software as he was good at coding and also contributed in github repository. Lovepreet Singh performed well at writing Final project write up.
 
 # Credits : 
