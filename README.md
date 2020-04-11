@@ -16,11 +16,12 @@ Here is a image of car which i have build as a project.
 - 4 X Micro motors <br/>
 - 4 X Grippy Wheels<br/>
 - Solder
+- Ultrasonic Sensor
 # Build Instructions :
 Here is how you are gonna build this project attached, is Breadboard diagram as it is easier to understand connection with breadboard diagram.<br/>
 ![](Circuit.png)<br/>
 Be careful while making connections as these are bit confusing. <br/>
-There are some jump wires which you need to solder. So be carefull while doing that. You need to use solder fix wires with motor. You also need things like super glue to fix motors and also you need Double sided tape to fix bluetooth. Drill is also required to fix arduino and motor driver on wooden board. Nylon spacer are must. 
+There are some jump wires which you need to solder. So be carefull while doing that. You need to use solder fix wires with motor. You also need things like super glue to fix motors and also you need Double sided tape to fix bluetooth. Drill is also required to fix arduino and motor driver on wooden board. Nylon spacer are must.Now one another addition modification which i am going to make in this. I added UltraSonic sensor which will detect obstacle and blink RED led as a danger sign. 
 
 # Usage :<br>
 It is bluetooth controlled car which is contrtolled with the help of andriod mobile phone app. First of all just upload code make sure while uploading code your bluetooth is off or disconnected otherwise you are gonna get list of erorrs which is really frustating. Make sure your bluetooth is blinking. Once blutooth is connected red light will remain on which is good. 
@@ -30,6 +31,7 @@ It is bluetooth controlled car which is contrtolled with the help of andriod mob
 - Now control car with remote inside app
 - It will act as a remote controll Car
 - Strong working car and it is really cool idea to make car at home which was kind of dream to buy in childhood.
+- when it is going to hit wall or something it will blink led
 
 # Team :
 - Komalpreet Singh
