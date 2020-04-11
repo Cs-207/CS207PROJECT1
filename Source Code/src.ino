@@ -30,19 +30,15 @@ uint8_t RemoteXY_CONF[] =
 struct {
 
     // input variable
-  int8_t joystick_1_x; // =-100..100 x-coordinate joystick position 
-  int8_t joystick_1_y; // =-100..100 y-coordinate joystick position 
-  uint8_t switch_1; // =1 if switch ON and =0 if OFF 
+  int8_t joystick_1_x; 
+  int8_t joystick_1_y; 
+  uint8_t switch_1;  
 
     // other variable
-  uint8_t connect_flag;  // =1 if wire connected, else =0 
+  uint8_t connect_flag;  
 
 } RemoteXY;
 #pragma pack(pop)
-
-/////////////////////////////////////////////
-//           END RemoteXY include          //
-/////////////////////////////////////////////
 
 #define PIN_SWITCH_1 13
 
@@ -61,7 +57,7 @@ uint8_t RightMotor[3] = {right_motor_A, right_motor_B, right_motor_speed};
 uint8_t LeftMotor[3] = {left_motor_A, left_motor_B, left_motor_speed};
 
 //speed control of motors
-void Wheel (uint8_t * motor, int v) // v = motor speed, motor = pointer to an array of pins 
+void Wheel (uint8_t * motor, int v) 
 {
   if (v > 100) v=100;
   if (v < -100) v=-100;
