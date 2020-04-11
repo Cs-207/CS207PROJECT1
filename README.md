@@ -17,6 +17,7 @@ Here is a image of car which i have build as a project.
 - Solder
 # Build Instructions :
 Here is how you are gonna build this project attached, is Breadboard diagram as it is easier to understand connection with breadboard diagram.<br/>
+![](Circuit.png)<br/>
 Be careful while making connections as these are bit confusing. <br/>
 There are some jump wires which you need to solder. So be carefull while doing that. You need to use solder fix wires with motor. Ypu also need things like super glue to fix motors and also you need Double sided tape to fix bluetooth. Drill is also required to fix arduino and motor driver on wooden board. Nylon spacer are must. 
 
